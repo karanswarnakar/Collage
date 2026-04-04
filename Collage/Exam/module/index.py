@@ -1,4 +1,4 @@
-import calculator
+import Collage.Exam.module.calculator as calculator
 a = int(input("Enter a first: "))
 b = int(input("Enter a secound: "))
 opration = "1. add 2. sub 3. mul 4. divide"

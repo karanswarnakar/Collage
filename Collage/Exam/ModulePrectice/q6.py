@@ -1,4 +1,4 @@
-import max_num 
+import Collage.Exam.ModulePrectice.max_num as max_num 
 
 while True:
     a = int(input("Enter num 1: "))

@@ -1,5 +1,5 @@
 
-import oprations
+import Collage.Exam.module.oprations as oprations
 
 def calculator(a,b,c):
     match c: 
